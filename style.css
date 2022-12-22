@@ -42,5 +42,9 @@ display:flex;
 h1{
     font-size:3.5rem;
 }
+    h1{
+     display:flex;
+        justify-content:center;
+    }
 
 }
